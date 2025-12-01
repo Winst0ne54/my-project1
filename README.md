@@ -1,5 +1,5 @@
 # my-project1
 Борисов Фёдор
-'''ру
+```ру
 print("Hello world")
-'''
+```
